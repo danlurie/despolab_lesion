@@ -1,0 +1,5 @@
+-o /home/despoB/dlurie/Projects/despolab_lesion/qc/sge/logs/
+-e /home/despoB/dlurie/Projects/despolab_lesion/qc/sge/logs/
+-j yes
+-m as
+-wd /home/despoB/dlurie/Projects/despolab_lesion/qc/

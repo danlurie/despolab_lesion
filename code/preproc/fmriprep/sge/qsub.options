@@ -1,0 +1,7 @@
+-o /home/despoB/dlurie/Projects/despolab_lesion/preproc/sge/logs/
+-e /home/despoB/dlurie/Projects/despolab_lesion/preproc/sge/logs/
+-j yes
+-m eas
+-M dan.lurie@berkeley.edu
+-pe threaded 4
+-wd /home/despoB/dlurie/Projects/despolab_lesion/preproc/

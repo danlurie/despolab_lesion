@@ -1,0 +1,5 @@
+-o /home/despoB/dlurie/Projects/despolab_lesion/logs/dicom_conversion/
+-e /home/despoB/dlurie/Projects/despolab_lesion/logs/dicom_conversion/
+-j yes
+-m eas
+-wd /home/despoB/dlurie/Projects/despolab_lesion/code/dicom_conversion/
