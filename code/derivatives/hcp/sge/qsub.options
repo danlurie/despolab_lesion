@@ -1,6 +1,0 @@
--o /home/despoB/dlurie/Projects/despolab_lesion/control_data/hcp/sge/logs/
--e /home/despoB/dlurie/Projects/despolab_lesion/control_data/hcp/sge/logs/
--j yes
--m as
--l mem_free=10G
--wd /home/despoB/dlurie/Projects/despolab_lesion/control_data/hcp/
