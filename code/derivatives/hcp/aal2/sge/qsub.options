@@ -1,0 +1,6 @@
+-o /home/despoB/dlurie/Projects/despolab_lesion/logs/derivatives/hcp/extract_aal2
+-e /home/despoB/dlurie/Projects/despolab_lesion/logs/derivatives/hcp/extract_aal2
+-j yes
+-m as
+-l mem_free=15G
+-wd /home/despoB/dlurie/Projects/despolab_lesion/code/derivatives/hcp/aal2/sge
